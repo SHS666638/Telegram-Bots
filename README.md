@@ -21,3 +21,4 @@ My telegram bots list
 - [Attach Bot](https://telegram.me/FnAttachBot): A link in a message attach telegram bot
 - [Country Info Bot](https://telegram.me/FnCountryInfoBot): A country information finder telegram bot
 - [Stream Bot](https://telegram.me/FnStreamBot): A file or media to instant download link telegram bot
+- [URL Shortener Bot](https://telegram.me/FnURLShortBot): A link shortner telegram bot
