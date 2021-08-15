@@ -14,3 +14,4 @@ My telegram bots list
 - [Rename Bot](https://telegram.me/FnRenameBot): Telegram file or media rename bot with permanent thumbnail saving support
 - [URL Uploader](https://telegram.me/FnURLUploadBot): A url upload to telegram files or media with permanent thumbnail support
 - [QR Code Bot](https://telegram.me/FnQRCodeBot): A QR Code encoder and decoder telegram bot
+- [Telegraph Uploader](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
