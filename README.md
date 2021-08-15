@@ -15,3 +15,4 @@ My telegram bots list
 - [URL Uploader](https://telegram.me/FnURLUploadBot): A url upload to telegram files or media with permanent thumbnail support
 - [QR Code Bot](https://telegram.me/FnQRCodeBot): A QR Code encoder and decoder telegram bot
 - [Telegraph Uploader](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
+- [Image Editor](https://telegram.me/FnImageEditBot): An image editor telegram bot supported various modes
