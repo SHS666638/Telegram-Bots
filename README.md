@@ -26,3 +26,6 @@ My telegram bots list
 - [Movie Info Bot](https://telegram.me/FnMovieBot): A movie information finder telegram bot
 
 ---
+
+#### (C) [FayasNoushad](https://github.com/FayasNoushad)
+#### All Rights Reserved
