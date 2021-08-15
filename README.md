@@ -20,3 +20,4 @@ My telegram bots list
 - [Store Bot](https://telegram.me/FnTelegramStoreBot): Telegram messages store to sharable link bot support channel also
 - [Attach Bot](https://telegram.me/FnAttachBot): A link in a message attach telegram bot
 - [Country Info Bot](https://telegram.me/FnCountryInfoBot): A country information finder telegram bot
+- [Stream Bot](https://telegram.me/FnStreamBot): A file or media to instant download link telegram bot
