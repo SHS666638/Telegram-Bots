@@ -17,3 +17,4 @@ My telegram bots list
 - [Telegraph Uploader](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
 - [Image Editor](https://telegram.me/FnImageEditBot): An image editor telegram bot supported various modes
 - [Extractor Bot](https://telegram.me/FnExtractBot): Audio or subtitle extractor from a telegram video
+- [Store Bot](https://telegram.me/FnTelegramStoreBot): Telegram messages store to sharable link bot support channel also
