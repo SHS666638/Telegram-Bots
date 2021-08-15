@@ -22,3 +22,4 @@ My telegram bots list
 - [Country Info Bot](https://telegram.me/FnCountryInfoBot): A country information finder telegram bot
 - [Stream Bot](https://telegram.me/FnStreamBot): A file or media to instant download link telegram bot
 - [URL Shortener Bot](https://telegram.me/FnURLShortBot): A link shortner telegram bot
+- [Watermark Adder](https://telegram.me/FnWatermarkBot): Watermark in a video added telegram bot
