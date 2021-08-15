@@ -11,3 +11,4 @@ My telegram bots list
 ---
 
 - [Converter Bot](https://telegram.me/FnConvertBot): Telegram file or media converter with permanent thumbnail saving support
+- [Rename Bot](https://telegram.me/FnRenameBot): Telegram file or media rename bot with permanent thumbnail saving support
