@@ -16,3 +16,4 @@ My telegram bots list
 - [QR Code Bot](https://telegram.me/FnQRCodeBot): A QR Code encoder and decoder telegram bot
 - [Telegraph Uploader](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
 - [Image Editor](https://telegram.me/FnImageEditBot): An image editor telegram bot supported various modes
+- [Extractor Bot](https://telegram.me/FnExtractBot): Audio or subtitle extractor from a telegram video
